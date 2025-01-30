@@ -11,5 +11,3 @@ The model uses Lagrangian Control Volume (LCV) to compute the near-field plume f
 - Graphical model ouputs
 - Independent far-field calculation
 
-## Note:
-EPA has not officially cleared this for the use of NPDES permits-related modeling yet, and the process is underway for EPA approval. Information will be updated once the approval process is completed.
