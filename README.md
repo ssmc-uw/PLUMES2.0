@@ -12,3 +12,4 @@ The model uses Lagrangian Control Volume (LCV) to compute the near-field plume f
 - Graphical model ouputs
 - Independent far-field calculation
 
+Note: Please report the bugs and upgrades prefered by the user community for future releases to ssmc.uw@gmail.com
