@@ -5,6 +5,7 @@ PLUMES2.0 is a revived version of the Visual Plumes model that was developed by 
  
 ## Model Features
 <img width="716" height="506" alt="plumes2 0_1" src="https://github.com/user-attachments/assets/ba86bf24-0676-4bde-aa5a-1a2247a5df20" />
+
 The model uses Lagrangian Control Volume (LCV) to compute the near-field plume fate similar to UM3, and the fate of the plume far-field is evaluated using Brooks principles (Brooks, 1960). More specifically model features includes:
 - Near-field dilution and other plume parameters
 - Far-field dilution and other plume parameters
