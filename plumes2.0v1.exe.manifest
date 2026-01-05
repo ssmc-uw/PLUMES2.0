@@ -3,7 +3,7 @@
 <assemblyIdentity
 version="1.0.0.0"
 processorArchitecture="AMD64"
-name="Pacific Northwest National Laboratory.Windows.plumes2.0"
+name="Pacific Northwest National Laboratory.Windows.plumes2.0v1"
 type="win32"
 />
 <description>scientific tool</description>
